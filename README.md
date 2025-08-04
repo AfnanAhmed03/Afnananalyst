@@ -4,7 +4,7 @@ Aspiring Data Analyst | Python & SQL Enthusiast | Building projects for real-wor
 >Currently learning data analytics and working on cool projects  
 >Skilled in SQL, Python (pandas, seaborn), Excel, Tableau  
 >On a mission to land a 20 LPA Data Analyst role  
->Reach me at: afu@email.com  
+>Reach me at: afupro03@email.com  
 
 ## Projects Coming Soon:
 - Netflix Data EDA  
